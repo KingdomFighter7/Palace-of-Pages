@@ -1,0 +1,26 @@
+* {
+    font-family: Tahoma;
+}
+
+.navbar-brand {
+    font-family: Georgia;
+}
+
+.navbar .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+}
+
+.btn-primary:hover {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: #000000;
+}
+
+.sinopsis_more {
+    text-decoration: none;
+}
+
+th {
+    align-content: center;
+}
